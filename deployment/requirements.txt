@@ -3,3 +3,5 @@ numpy
 pandas
 keras
 joblib
+scikit-learn
+tensorflow
